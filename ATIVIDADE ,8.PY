@@ -87,4 +87,4 @@ plt.show()
 # sim
 
 #O tempo está concentrado em alguma faixa?
-#  Entre 20 a 40 minutos
+#  Entre 15 a 25 minutos
